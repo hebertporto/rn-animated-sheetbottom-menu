@@ -11,6 +11,7 @@ import {
   Easing,
 } from 'react-native';
 
+// commit test
 const SimpleBottom = ({ isOpen }) => {
   // const height = new Animated.Value(0);
   const [height] = useState(new Animated.Value(0));
